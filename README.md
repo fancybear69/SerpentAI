@@ -1,6 +1,6 @@
 ![](https://s3.ca-central-1.amazonaws.com/serpent-ai-assets/SerpentFBCover.png)
 
-# Serpent.AI - Game Agent Framework (Python)
+# Serpent.AI - Game Agent Framework (Python
 
 Serpent.AI is a simple yet powerful, novel framework to assist developers in the creation of game agents. Turn ANY video game you own  into a sandbox environment ripe for experimentation, all with familiar Python code. The framework's _raison d'être_ is first and foremost to provide a valuable tool for Machine Learning & AI research. It also turns out to be ridiculously fun to use as a hobbyist (and dangerously addictive; a fair warning)!
 
