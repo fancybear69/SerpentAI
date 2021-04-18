@@ -1,6 +1,6 @@
 ![](https://s3.ca-central-1.amazonaws.com/serpent-ai-assets/SerpentFBCover.png)
 
-# Serpent.AI - Game Agent Framework (Python)
+# Serpent.AI - Game Agent  (Python)
 
 [![](https://img.shields.io/badge/project-website-brightgreen.svg?colorB=1bcc6f&longCache=true)](http://serpent.ai)
 [![](https://img.shields.io/badge/project-blog-brightgreen.svg?colorB=1bcc6f&longCache=true)](http://blog.serpent.ai)
